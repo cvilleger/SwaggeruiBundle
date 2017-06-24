@@ -1,3 +1,6 @@
+[![License](https://poser.pugx.org/cvilleger/swaggeruibundle/license)](https://packagist.org/packages/cvilleger/swaggeruibundle)
+[![Latest Unstable Version](https://poser.pugx.org/cvilleger/swaggeruibundle/v/unstable)](https://packagist.org/packages/cvilleger/swaggeruibundle)
+
 SwaggeruiBundle
 =================
 
