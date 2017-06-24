@@ -1,0 +1,3 @@
+cvilleger_swaggerui_homepage:
+    path:     /
+    defaults: { _controller: CvillegerSwaggeruiBundle:Default:index }

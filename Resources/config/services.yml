@@ -1,0 +1,4 @@
+services:
+#    cvilleger_swaggerui.example:
+#        class: Cvilleger\SwaggeruiBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
