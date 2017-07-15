@@ -72,6 +72,6 @@ Add parameters in the `app\config\parameters.yml` file of your project:
 ```yaml
 swaggerui:
     - title: 'SwaggeruiBundleProject'
-    - url: 'http://petstore.swagger.io/v2/swagger.json'
+    - url: 'http://petstore.swagger.io/v2/swagger.json' || 'swaggerJsonRouteName'
 ```
 
