@@ -1,13 +1,13 @@
 {
   "name": "cvilleger/swaggeruibundle",
-  "description": "Creates a Swagger UI page in your Symfony2 application",
+  "description": "Creates a Swagger UI page in your Symfony3 application",
   "authors": [
     {
       "name": "Christophe Villeger"
     }
   ],
   "require": {
-    "php": ">=5.3.0",
+    "php": ">=7.0",
     "symfony/twig-bundle": "~2.1 || ^3.0",
     "symfony/framework-bundle": "~2.1 || ^3.0",
     "symfony/finder" : "~2.1 || ^3.0"
