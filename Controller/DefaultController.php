@@ -9,7 +9,7 @@ class DefaultController extends Controller
     public function indexAction()
     {
         $parameterName = 'swaggerui';
-        $parameters = null;
+        $parameters = [];
         if ($this->container->hasParameter($parameterName)){
             $swaggerui = $this->container->getParameter($parameterName);
             foreach ($swaggerui as $value){
